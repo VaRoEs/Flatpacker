@@ -55,6 +55,9 @@
 **Running `install.sh`:**  
 <img width="804" alt="install" src="https://github.com/user-attachments/assets/d2ec036c-beb7-422b-8c2b-f759831a77d9" />
 
+<img width="804" height="472" alt="screenshot_20260615_193424" src="https://github.com/user-attachments/assets/d2ec036c-beb7-422b-8c2b-f759831a77d9" />
+<img width="785" height="502" alt="screenshot_20260615_193438" src="https://github.com/user-attachments/assets/11cf477f-fd6f-4390-8d3e-ae146b0b0856" />
+
 <img width="1051" height="681" alt="screenshot_20260615_193531" src="https://github.com/user-attachments/assets/11a91047-1de1-4773-a4d8-cba2c56fdf9d" />
 
 ### 🐧 Legacy Support (Fedora 29)
