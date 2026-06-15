@@ -55,6 +55,8 @@
 **Running `install.sh`:**  
 <img width="804" alt="install" src="https://github.com/user-attachments/assets/d2ec036c-beb7-422b-8c2b-f759831a77d9" />
 
+<img width="1051" height="681" alt="screenshot_20260615_193531" src="https://github.com/user-attachments/assets/11a91047-1de1-4773-a4d8-cba2c56fdf9d" />
+
 ### 🐧 Legacy Support (Fedora 29)
 
 > *"In Fedora 29 (Flatpak 1.0.3) you can install bundles — building not supported, but installation works perfectly!"*
