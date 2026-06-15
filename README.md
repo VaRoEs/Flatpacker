@@ -21,14 +21,8 @@
 
 ## 🎬 Live Demo
 
-```bash
-$ ./flatpacker.sh
-
-════════════════════════════════════════════════════════════
-    📦 Flatpak Bundle Builder — Full Version
-════════════════════════════════════════════════════════════
-
 <img width="740" height="500" alt="screenshot_20260615_192516" src="https://github.com/user-attachments/assets/5ca1e0d3-5f27-4cb1-8976-6a4167150023" />
+
 <img width="791" height="478" alt="screenshot_20260615_193127" src="https://github.com/user-attachments/assets/03737436-ae12-47dc-9369-d61a585ce3d2" />
 <img width="881" height="336" alt="screenshot_20260615_193146" src="https://github.com/user-attachments/assets/816cd70f-8b4d-4b67-98e3-0a82feaf6bee" />
 
@@ -59,8 +53,6 @@ Install process...create permissions and run
 
 Well done!
 <img width="1218" height="858" alt="screenshot_20260615_203439" src="https://github.com/user-attachments/assets/de5b2980-6b52-4b2d-9d53-5103f20f5eee" />
-
-
 
 
 
