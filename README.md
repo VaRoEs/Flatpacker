@@ -1,7 +1,7 @@
 # 🚀 Flatpacker — Offline Flatpak Bundler
 
 > **Turn any installed Flatpak into a fully offline `.flatpak` bundle**  
-> One script. No internet required after bundling. Put your .flatpak on folder with script.
+> One script. No internet required after bundling. Put your .flatpak on folder with script. Install.sh automaticly will be created in the end.
 
 ![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
 ![flatpak](https://img.shields.io/badge/Flatpak-✓-4caf50)
